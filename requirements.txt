@@ -1,0 +1,13 @@
+cloudinary==1.9.0
+dj-database-url==0.4.1
+Django==1.11.1
+django-rest-swagger==2.1.2
+django-storages==1.6.5
+djangorestframework==3.7.0
+gunicorn==19.6.0
+psycopg2==2.6.2
+python-decouple==3.1
+whitenoise==3.2
+django-flat-responsive
+django-filter
+sendgrid
